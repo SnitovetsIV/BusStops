@@ -10,12 +10,17 @@ import java.util.List;
  * Created by Илья on 10.07.2014.
  */
 public class Bus implements Runnable {
+    private static final Logger LOG = Logger.getLogger(Bus.class);
     //маршрут движения автобуса
     private List<BusStop> route;
-    private static final Logger LOG = Logger.getLogger(Bus.class);
+    private int length;     //m
 
-    public void setRoute(Collection<? extends BusStop> clctn) {
-        route = (List<BusStop>) clctn;
+    public Bus(int length) {
+        this.length = length;
+    }
+
+    public void setRoute(List<BusStop> clctn) {
+        route = clctn;
     }
 
     public void addAllBusStops(Collection<? extends BusStop> clctn) {
@@ -30,19 +35,19 @@ public class Bus implements Runnable {
         for (BusStop busStop : route) {
             try {
                 //надо же доехать до остановки
-                long gointTime = Math.round(1000 * Math.random());
-                LOG.info("Bus " + Thread.currentThread().getId() + " going to stop (" + gointTime + ")");
-                Thread.sleep(gointTime);
+                long goingTime = Math.round(1000 * Math.random());
+                LOG.info("Bus " + Thread.currentThread().getId() + " going to stop (" + goingTime + ")");
+                Thread.sleep(goingTime);
                 //заезд на остановку
-                busStop.enter();
+                busStop.tryEnter(length);
                 //посадка и высадка пассажиров
                 long stopTime = Math.round(1000 * Math.random());
                 LOG.info("Bus " + Thread.currentThread().getId() + " standing at the bus stop (" + stopTime + ")");
                 Thread.sleep(stopTime);
                 //выезд из остановки
-                busStop.leave();
+                busStop.leave(length);
             } catch (InterruptedException ex) {
-
+                LOG.error(ex.getMessage());
             }
         }
     }

@@ -12,28 +12,38 @@ public class BusStop {
     private static final Logger LOG = Logger.getLogger(BusStop.class);
     private final String name;
     private final Semaphore semaphore;
-    private final int maxLength = 10;
+    private final int maxLength = 10;       // m
 
-    public BusStop(int maxCountOfBus, String name) {
+    public BusStop(int maxLength, String name) {
         this.name = name;
-        semaphore = new Semaphore(maxCountOfBus);
+        semaphore = new Semaphore(maxLength);
     }
 
     public BusStop() {
         this(2, "noname bus stop");
     }
 
-    public void enter() {
+    public boolean tryEnter(int length) {
+        boolean result = false;
+        if (semaphore.tryAcquire(length)) {
+            LOG.info("Bus " + Thread.currentThread().getId() + " enter" + name);
+            result = true;
+        }
+        return result;
+    }
+
+    public void enter(int length) {
         try {
-            semaphore.acquire();
+            semaphore.acquire(length);
             LOG.info("Bus " + Thread.currentThread().getId() + " enter" + name);
         } catch (InterruptedException ex) {
+            LOG.error(ex.getMessage());
         }
     }
 
 
-    public void leave() {
-        semaphore.release();
+    public void leave(int length) {
+        semaphore.release(length);
         LOG.info("Bus " + Thread.currentThread().getId() + " leave" + name);
     }
 

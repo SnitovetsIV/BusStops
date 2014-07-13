@@ -648,3 +648,196 @@
 11.07.2014 19:57:44 [Thread-3] INFO  by.snitovets.busstops.entity.Bus  - Bus 14 standing at the bus stop (843)
 11.07.2014 19:57:44 [Thread-4] INFO  by.snitovets.busstops.entity.BusStop  - Bus 15 leave!
 11.07.2014 19:57:44 [Thread-3] INFO  by.snitovets.busstops.entity.BusStop  - Bus 14 leave!
+13.07.2014 17:23:08 [Thread-4] INFO  by.snitovets.busstops.entity.Bus  - Bus 15 going to stop (126)
+13.07.2014 17:23:08 [Thread-2] INFO  by.snitovets.busstops.entity.Bus  - Bus 13 going to stop (265)
+13.07.2014 17:23:08 [Thread-0] INFO  by.snitovets.busstops.entity.Bus  - Bus 11 going to stop (427)
+13.07.2014 17:23:08 [Thread-3] INFO  by.snitovets.busstops.entity.Bus  - Bus 14 going to stop (678)
+13.07.2014 17:23:08 [Thread-1] INFO  by.snitovets.busstops.entity.Bus  - Bus 12 going to stop (157)
+13.07.2014 17:23:08 [Thread-4] INFO  by.snitovets.busstops.entity.BusStop  - Bus 15 enterbus stop 0
+13.07.2014 17:23:08 [Thread-4] INFO  by.snitovets.busstops.entity.Bus  - Bus 15 standing at the bus stop (996)
+13.07.2014 17:23:09 [Thread-1] INFO  by.snitovets.busstops.entity.BusStop  - Bus 12 enterbus stop 0
+13.07.2014 17:23:09 [Thread-1] INFO  by.snitovets.busstops.entity.Bus  - Bus 12 standing at the bus stop (351)
+13.07.2014 17:23:09 [Thread-2] INFO  by.snitovets.busstops.entity.BusStop  - Bus 13 enterbus stop 0
+13.07.2014 17:23:09 [Thread-2] INFO  by.snitovets.busstops.entity.Bus  - Bus 13 standing at the bus stop (541)
+13.07.2014 17:23:09 [Thread-0] INFO  by.snitovets.busstops.entity.BusStop  - Bus 11 enterbus stop 0
+13.07.2014 17:23:09 [Thread-0] INFO  by.snitovets.busstops.entity.Bus  - Bus 11 standing at the bus stop (418)
+13.07.2014 17:23:09 [Thread-1] INFO  by.snitovets.busstops.entity.BusStop  - Bus 12 leavebus stop 0
+13.07.2014 17:23:09 [Thread-1] INFO  by.snitovets.busstops.entity.Bus  - Bus 12 going to stop (48)
+13.07.2014 17:23:09 [Thread-1] INFO  by.snitovets.busstops.entity.BusStop  - Bus 12 enterbus stop 1
+13.07.2014 17:23:09 [Thread-1] INFO  by.snitovets.busstops.entity.Bus  - Bus 12 standing at the bus stop (908)
+13.07.2014 17:23:09 [Thread-3] INFO  by.snitovets.busstops.entity.BusStop  - Bus 14 enterbus stop 0
+13.07.2014 17:23:09 [Thread-3] INFO  by.snitovets.busstops.entity.Bus  - Bus 14 standing at the bus stop (706)
+13.07.2014 17:23:09 [Thread-2] INFO  by.snitovets.busstops.entity.BusStop  - Bus 13 leavebus stop 0
+13.07.2014 17:23:09 [Thread-2] INFO  by.snitovets.busstops.entity.Bus  - Bus 13 going to stop (580)
+13.07.2014 17:23:09 [Thread-0] INFO  by.snitovets.busstops.entity.BusStop  - Bus 11 leavebus stop 0
+13.07.2014 17:23:09 [Thread-0] INFO  by.snitovets.busstops.entity.Bus  - Bus 11 going to stop (246)
+13.07.2014 17:23:09 [Thread-0] INFO  by.snitovets.busstops.entity.BusStop  - Bus 11 enterbus stop 1
+13.07.2014 17:23:09 [Thread-0] INFO  by.snitovets.busstops.entity.Bus  - Bus 11 standing at the bus stop (843)
+13.07.2014 17:23:09 [Thread-4] INFO  by.snitovets.busstops.entity.BusStop  - Bus 15 leavebus stop 0
+13.07.2014 17:23:09 [Thread-4] INFO  by.snitovets.busstops.entity.Bus  - Bus 15 going to stop (220)
+13.07.2014 17:23:10 [Thread-4] INFO  by.snitovets.busstops.entity.BusStop  - Bus 15 enterbus stop 1
+13.07.2014 17:23:10 [Thread-4] INFO  by.snitovets.busstops.entity.Bus  - Bus 15 standing at the bus stop (810)
+13.07.2014 17:23:10 [Thread-3] INFO  by.snitovets.busstops.entity.BusStop  - Bus 14 leavebus stop 0
+13.07.2014 17:23:10 [Thread-3] INFO  by.snitovets.busstops.entity.Bus  - Bus 14 going to stop (69)
+13.07.2014 17:23:10 [Thread-2] INFO  by.snitovets.busstops.entity.BusStop  - Bus 13 enterbus stop 1
+13.07.2014 17:23:10 [Thread-2] INFO  by.snitovets.busstops.entity.Bus  - Bus 13 standing at the bus stop (584)
+13.07.2014 17:23:10 [Thread-3] INFO  by.snitovets.busstops.entity.BusStop  - Bus 14 enterbus stop 1
+13.07.2014 17:23:10 [Thread-3] INFO  by.snitovets.busstops.entity.Bus  - Bus 14 standing at the bus stop (998)
+13.07.2014 17:23:10 [Thread-1] INFO  by.snitovets.busstops.entity.BusStop  - Bus 12 leavebus stop 1
+13.07.2014 17:23:10 [Thread-1] INFO  by.snitovets.busstops.entity.Bus  - Bus 12 going to stop (944)
+13.07.2014 17:23:10 [Thread-0] INFO  by.snitovets.busstops.entity.BusStop  - Bus 11 leavebus stop 1
+13.07.2014 17:23:10 [Thread-0] INFO  by.snitovets.busstops.entity.Bus  - Bus 11 going to stop (867)
+13.07.2014 17:23:10 [Thread-2] INFO  by.snitovets.busstops.entity.BusStop  - Bus 13 leavebus stop 1
+13.07.2014 17:23:10 [Thread-2] INFO  by.snitovets.busstops.entity.Bus  - Bus 13 going to stop (73)
+13.07.2014 17:23:10 [Thread-2] INFO  by.snitovets.busstops.entity.BusStop  - Bus 13 enterbus stop 2
+13.07.2014 17:23:10 [Thread-2] INFO  by.snitovets.busstops.entity.Bus  - Bus 13 standing at the bus stop (255)
+13.07.2014 17:23:11 [Thread-4] INFO  by.snitovets.busstops.entity.BusStop  - Bus 15 leavebus stop 1
+13.07.2014 17:23:11 [Thread-4] INFO  by.snitovets.busstops.entity.Bus  - Bus 15 going to stop (740)
+13.07.2014 17:23:11 [Thread-2] INFO  by.snitovets.busstops.entity.BusStop  - Bus 13 leavebus stop 2
+13.07.2014 17:23:11 [Thread-2] INFO  by.snitovets.busstops.entity.Bus  - Bus 13 going to stop (621)
+13.07.2014 17:23:11 [Thread-1] INFO  by.snitovets.busstops.entity.BusStop  - Bus 12 enterbus stop 2
+13.07.2014 17:23:11 [Thread-1] INFO  by.snitovets.busstops.entity.Bus  - Bus 12 standing at the bus stop (763)
+13.07.2014 17:23:11 [Thread-3] INFO  by.snitovets.busstops.entity.BusStop  - Bus 14 leavebus stop 1
+13.07.2014 17:23:11 [Thread-3] INFO  by.snitovets.busstops.entity.Bus  - Bus 14 going to stop (719)
+13.07.2014 17:23:11 [Thread-0] INFO  by.snitovets.busstops.entity.BusStop  - Bus 11 enterbus stop 2
+13.07.2014 17:23:11 [Thread-0] INFO  by.snitovets.busstops.entity.Bus  - Bus 11 standing at the bus stop (537)
+13.07.2014 17:23:11 [Thread-4] INFO  by.snitovets.busstops.entity.BusStop  - Bus 15 enterbus stop 2
+13.07.2014 17:23:11 [Thread-4] INFO  by.snitovets.busstops.entity.Bus  - Bus 15 standing at the bus stop (829)
+13.07.2014 17:23:11 [Thread-2] INFO  by.snitovets.busstops.entity.BusStop  - Bus 13 enterbus stop 3
+13.07.2014 17:23:11 [Thread-2] INFO  by.snitovets.busstops.entity.Bus  - Bus 13 standing at the bus stop (88)
+13.07.2014 17:23:11 [Thread-2] INFO  by.snitovets.busstops.entity.BusStop  - Bus 13 leavebus stop 3
+13.07.2014 17:23:11 [Thread-2] INFO  by.snitovets.busstops.entity.Bus  - Bus 13 going to stop (753)
+13.07.2014 17:23:12 [Thread-3] INFO  by.snitovets.busstops.entity.BusStop  - Bus 14 enterbus stop 2
+13.07.2014 17:23:12 [Thread-3] INFO  by.snitovets.busstops.entity.Bus  - Bus 14 standing at the bus stop (852)
+13.07.2014 17:23:12 [Thread-1] INFO  by.snitovets.busstops.entity.BusStop  - Bus 12 leavebus stop 2
+13.07.2014 17:23:12 [Thread-1] INFO  by.snitovets.busstops.entity.Bus  - Bus 12 going to stop (216)
+13.07.2014 17:23:12 [Thread-0] INFO  by.snitovets.busstops.entity.BusStop  - Bus 11 leavebus stop 2
+13.07.2014 17:23:12 [Thread-0] INFO  by.snitovets.busstops.entity.Bus  - Bus 11 going to stop (314)
+13.07.2014 17:23:12 [Thread-1] INFO  by.snitovets.busstops.entity.BusStop  - Bus 12 enterbus stop 3
+13.07.2014 17:23:12 [Thread-1] INFO  by.snitovets.busstops.entity.Bus  - Bus 12 standing at the bus stop (348)
+13.07.2014 17:23:12 [Thread-0] INFO  by.snitovets.busstops.entity.BusStop  - Bus 11 enterbus stop 3
+13.07.2014 17:23:12 [Thread-0] INFO  by.snitovets.busstops.entity.Bus  - Bus 11 standing at the bus stop (470)
+13.07.2014 17:23:12 [Thread-4] INFO  by.snitovets.busstops.entity.BusStop  - Bus 15 leavebus stop 2
+13.07.2014 17:23:12 [Thread-4] INFO  by.snitovets.busstops.entity.Bus  - Bus 15 going to stop (237)
+13.07.2014 17:23:12 [Thread-1] INFO  by.snitovets.busstops.entity.BusStop  - Bus 12 leavebus stop 3
+13.07.2014 17:23:12 [Thread-1] INFO  by.snitovets.busstops.entity.Bus  - Bus 12 going to stop (767)
+13.07.2014 17:23:12 [Thread-2] INFO  by.snitovets.busstops.entity.BusStop  - Bus 13 enterbus stop 4
+13.07.2014 17:23:12 [Thread-2] INFO  by.snitovets.busstops.entity.Bus  - Bus 13 standing at the bus stop (308)
+13.07.2014 17:23:12 [Thread-4] INFO  by.snitovets.busstops.entity.BusStop  - Bus 15 enterbus stop 3
+13.07.2014 17:23:12 [Thread-4] INFO  by.snitovets.busstops.entity.Bus  - Bus 15 standing at the bus stop (32)
+13.07.2014 17:23:12 [Thread-4] INFO  by.snitovets.busstops.entity.BusStop  - Bus 15 leavebus stop 3
+13.07.2014 17:23:12 [Thread-4] INFO  by.snitovets.busstops.entity.Bus  - Bus 15 going to stop (137)
+13.07.2014 17:23:12 [Thread-3] INFO  by.snitovets.busstops.entity.BusStop  - Bus 14 leavebus stop 2
+13.07.2014 17:23:12 [Thread-3] INFO  by.snitovets.busstops.entity.Bus  - Bus 14 going to stop (578)
+13.07.2014 17:23:12 [Thread-2] INFO  by.snitovets.busstops.entity.BusStop  - Bus 13 leavebus stop 4
+13.07.2014 17:23:12 [Thread-0] INFO  by.snitovets.busstops.entity.BusStop  - Bus 11 leavebus stop 3
+13.07.2014 17:23:12 [Thread-0] INFO  by.snitovets.busstops.entity.Bus  - Bus 11 going to stop (570)
+13.07.2014 17:23:13 [Thread-4] INFO  by.snitovets.busstops.entity.BusStop  - Bus 15 enterbus stop 4
+13.07.2014 17:23:13 [Thread-4] INFO  by.snitovets.busstops.entity.Bus  - Bus 15 standing at the bus stop (38)
+13.07.2014 17:23:13 [Thread-4] INFO  by.snitovets.busstops.entity.BusStop  - Bus 15 leavebus stop 4
+13.07.2014 17:23:13 [Thread-1] INFO  by.snitovets.busstops.entity.BusStop  - Bus 12 enterbus stop 4
+13.07.2014 17:23:13 [Thread-1] INFO  by.snitovets.busstops.entity.Bus  - Bus 12 standing at the bus stop (942)
+13.07.2014 17:23:13 [Thread-3] INFO  by.snitovets.busstops.entity.BusStop  - Bus 14 enterbus stop 3
+13.07.2014 17:23:13 [Thread-3] INFO  by.snitovets.busstops.entity.Bus  - Bus 14 standing at the bus stop (998)
+13.07.2014 17:23:13 [Thread-0] INFO  by.snitovets.busstops.entity.BusStop  - Bus 11 enterbus stop 4
+13.07.2014 17:23:13 [Thread-0] INFO  by.snitovets.busstops.entity.Bus  - Bus 11 standing at the bus stop (321)
+13.07.2014 17:23:13 [Thread-0] INFO  by.snitovets.busstops.entity.BusStop  - Bus 11 leavebus stop 4
+13.07.2014 17:23:14 [Thread-1] INFO  by.snitovets.busstops.entity.BusStop  - Bus 12 leavebus stop 4
+13.07.2014 17:23:14 [Thread-3] INFO  by.snitovets.busstops.entity.BusStop  - Bus 14 leavebus stop 3
+13.07.2014 17:23:14 [Thread-3] INFO  by.snitovets.busstops.entity.Bus  - Bus 14 going to stop (486)
+13.07.2014 17:23:14 [Thread-3] INFO  by.snitovets.busstops.entity.BusStop  - Bus 14 enterbus stop 4
+13.07.2014 17:23:14 [Thread-3] INFO  by.snitovets.busstops.entity.Bus  - Bus 14 standing at the bus stop (877)
+13.07.2014 17:23:15 [Thread-3] INFO  by.snitovets.busstops.entity.BusStop  - Bus 14 leavebus stop 4
+13.07.2014 17:24:16 [Thread-1] INFO  by.snitovets.busstops.entity.Bus  - Bus 12 going to stop (343)
+13.07.2014 17:24:16 [Thread-4] INFO  by.snitovets.busstops.entity.Bus  - Bus 15 going to stop (287)
+13.07.2014 17:24:16 [Thread-2] INFO  by.snitovets.busstops.entity.Bus  - Bus 13 going to stop (465)
+13.07.2014 17:24:16 [Thread-0] INFO  by.snitovets.busstops.entity.Bus  - Bus 11 going to stop (473)
+13.07.2014 17:24:16 [Thread-3] INFO  by.snitovets.busstops.entity.Bus  - Bus 14 going to stop (155)
+13.07.2014 17:24:16 [Thread-3] INFO  by.snitovets.busstops.entity.Bus  - Bus 14 standing at the bus stop (940)
+13.07.2014 17:24:16 [Thread-4] INFO  by.snitovets.busstops.entity.Bus  - Bus 15 standing at the bus stop (927)
+13.07.2014 17:24:16 [Thread-1] INFO  by.snitovets.busstops.entity.Bus  - Bus 12 standing at the bus stop (286)
+13.07.2014 17:24:16 [Thread-2] INFO  by.snitovets.busstops.entity.Bus  - Bus 13 standing at the bus stop (346)
+13.07.2014 17:24:16 [Thread-0] INFO  by.snitovets.busstops.entity.BusStop  - Bus 11 enterbus stop 0
+13.07.2014 17:24:16 [Thread-0] INFO  by.snitovets.busstops.entity.Bus  - Bus 11 standing at the bus stop (646)
+13.07.2014 17:24:16 [Thread-1] INFO  by.snitovets.busstops.entity.BusStop  - Bus 12 leavebus stop 0
+13.07.2014 17:24:16 [Thread-1] INFO  by.snitovets.busstops.entity.Bus  - Bus 12 going to stop (762)
+13.07.2014 17:24:17 [Thread-2] INFO  by.snitovets.busstops.entity.BusStop  - Bus 13 leavebus stop 0
+13.07.2014 17:24:17 [Thread-2] INFO  by.snitovets.busstops.entity.Bus  - Bus 13 going to stop (870)
+13.07.2014 17:24:17 [Thread-3] INFO  by.snitovets.busstops.entity.BusStop  - Bus 14 leavebus stop 0
+13.07.2014 17:24:17 [Thread-3] INFO  by.snitovets.busstops.entity.Bus  - Bus 14 going to stop (727)
+13.07.2014 17:24:17 [Thread-0] INFO  by.snitovets.busstops.entity.BusStop  - Bus 11 leavebus stop 0
+13.07.2014 17:24:17 [Thread-0] INFO  by.snitovets.busstops.entity.Bus  - Bus 11 going to stop (595)
+13.07.2014 17:24:17 [Thread-4] INFO  by.snitovets.busstops.entity.BusStop  - Bus 15 leavebus stop 0
+13.07.2014 17:24:17 [Thread-4] INFO  by.snitovets.busstops.entity.Bus  - Bus 15 going to stop (728)
+13.07.2014 17:24:17 [Thread-1] INFO  by.snitovets.busstops.entity.BusStop  - Bus 12 enterbus stop 1
+13.07.2014 17:24:17 [Thread-1] INFO  by.snitovets.busstops.entity.Bus  - Bus 12 standing at the bus stop (77)
+13.07.2014 17:24:17 [Thread-1] INFO  by.snitovets.busstops.entity.BusStop  - Bus 12 leavebus stop 1
+13.07.2014 17:24:17 [Thread-1] INFO  by.snitovets.busstops.entity.Bus  - Bus 12 going to stop (662)
+13.07.2014 17:24:17 [Thread-2] INFO  by.snitovets.busstops.entity.BusStop  - Bus 13 enterbus stop 1
+13.07.2014 17:24:17 [Thread-2] INFO  by.snitovets.busstops.entity.Bus  - Bus 13 standing at the bus stop (927)
+13.07.2014 17:24:17 [Thread-0] INFO  by.snitovets.busstops.entity.BusStop  - Bus 11 enterbus stop 1
+13.07.2014 17:24:17 [Thread-0] INFO  by.snitovets.busstops.entity.Bus  - Bus 11 standing at the bus stop (196)
+13.07.2014 17:24:18 [Thread-3] INFO  by.snitovets.busstops.entity.Bus  - Bus 14 standing at the bus stop (852)
+13.07.2014 17:24:18 [Thread-0] INFO  by.snitovets.busstops.entity.BusStop  - Bus 11 leavebus stop 1
+13.07.2014 17:24:18 [Thread-0] INFO  by.snitovets.busstops.entity.Bus  - Bus 11 going to stop (529)
+13.07.2014 17:24:18 [Thread-4] INFO  by.snitovets.busstops.entity.Bus  - Bus 15 standing at the bus stop (449)
+13.07.2014 17:24:18 [Thread-1] INFO  by.snitovets.busstops.entity.BusStop  - Bus 12 enterbus stop 2
+13.07.2014 17:24:18 [Thread-1] INFO  by.snitovets.busstops.entity.Bus  - Bus 12 standing at the bus stop (630)
+13.07.2014 17:24:18 [Thread-4] INFO  by.snitovets.busstops.entity.BusStop  - Bus 15 leavebus stop 1
+13.07.2014 17:24:18 [Thread-4] INFO  by.snitovets.busstops.entity.Bus  - Bus 15 going to stop (791)
+13.07.2014 17:24:18 [Thread-0] INFO  by.snitovets.busstops.entity.BusStop  - Bus 11 enterbus stop 2
+13.07.2014 17:24:18 [Thread-0] INFO  by.snitovets.busstops.entity.Bus  - Bus 11 standing at the bus stop (389)
+13.07.2014 17:24:18 [Thread-2] INFO  by.snitovets.busstops.entity.BusStop  - Bus 13 leavebus stop 1
+13.07.2014 17:24:18 [Thread-2] INFO  by.snitovets.busstops.entity.Bus  - Bus 13 going to stop (738)
+13.07.2014 17:24:18 [Thread-3] INFO  by.snitovets.busstops.entity.BusStop  - Bus 14 leavebus stop 1
+13.07.2014 17:24:18 [Thread-3] INFO  by.snitovets.busstops.entity.Bus  - Bus 14 going to stop (118)
+13.07.2014 17:24:18 [Thread-1] INFO  by.snitovets.busstops.entity.BusStop  - Bus 12 leavebus stop 2
+13.07.2014 17:24:18 [Thread-1] INFO  by.snitovets.busstops.entity.Bus  - Bus 12 going to stop (141)
+13.07.2014 17:24:18 [Thread-3] INFO  by.snitovets.busstops.entity.BusStop  - Bus 14 enterbus stop 2
+13.07.2014 17:24:18 [Thread-3] INFO  by.snitovets.busstops.entity.Bus  - Bus 14 standing at the bus stop (499)
+13.07.2014 17:24:19 [Thread-0] INFO  by.snitovets.busstops.entity.BusStop  - Bus 11 leavebus stop 2
+13.07.2014 17:24:19 [Thread-0] INFO  by.snitovets.busstops.entity.Bus  - Bus 11 going to stop (325)
+13.07.2014 17:24:19 [Thread-1] INFO  by.snitovets.busstops.entity.BusStop  - Bus 12 enterbus stop 3
+13.07.2014 17:24:19 [Thread-1] INFO  by.snitovets.busstops.entity.Bus  - Bus 12 standing at the bus stop (682)
+13.07.2014 17:24:19 [Thread-0] INFO  by.snitovets.busstops.entity.BusStop  - Bus 11 enterbus stop 3
+13.07.2014 17:24:19 [Thread-0] INFO  by.snitovets.busstops.entity.Bus  - Bus 11 standing at the bus stop (808)
+13.07.2014 17:24:19 [Thread-4] INFO  by.snitovets.busstops.entity.Bus  - Bus 15 standing at the bus stop (883)
+13.07.2014 17:24:19 [Thread-3] INFO  by.snitovets.busstops.entity.BusStop  - Bus 14 leavebus stop 2
+13.07.2014 17:24:19 [Thread-3] INFO  by.snitovets.busstops.entity.Bus  - Bus 14 going to stop (346)
+13.07.2014 17:24:19 [Thread-2] INFO  by.snitovets.busstops.entity.BusStop  - Bus 13 enterbus stop 2
+13.07.2014 17:24:19 [Thread-2] INFO  by.snitovets.busstops.entity.Bus  - Bus 13 standing at the bus stop (369)
+13.07.2014 17:24:19 [Thread-1] INFO  by.snitovets.busstops.entity.BusStop  - Bus 12 leavebus stop 3
+13.07.2014 17:24:19 [Thread-1] INFO  by.snitovets.busstops.entity.Bus  - Bus 12 going to stop (249)
+13.07.2014 17:24:19 [Thread-3] INFO  by.snitovets.busstops.entity.BusStop  - Bus 14 enterbus stop 3
+13.07.2014 17:24:19 [Thread-3] INFO  by.snitovets.busstops.entity.Bus  - Bus 14 standing at the bus stop (178)
+13.07.2014 17:24:19 [Thread-2] INFO  by.snitovets.busstops.entity.BusStop  - Bus 13 leavebus stop 2
+13.07.2014 17:24:19 [Thread-2] INFO  by.snitovets.busstops.entity.Bus  - Bus 13 going to stop (965)
+13.07.2014 17:24:20 [Thread-3] INFO  by.snitovets.busstops.entity.BusStop  - Bus 14 leavebus stop 3
+13.07.2014 17:24:20 [Thread-3] INFO  by.snitovets.busstops.entity.Bus  - Bus 14 going to stop (800)
+13.07.2014 17:24:20 [Thread-1] INFO  by.snitovets.busstops.entity.BusStop  - Bus 12 enterbus stop 4
+13.07.2014 17:24:20 [Thread-1] INFO  by.snitovets.busstops.entity.Bus  - Bus 12 standing at the bus stop (93)
+13.07.2014 17:24:20 [Thread-1] INFO  by.snitovets.busstops.entity.BusStop  - Bus 12 leavebus stop 4
+13.07.2014 17:24:20 [Thread-0] INFO  by.snitovets.busstops.entity.BusStop  - Bus 11 leavebus stop 3
+13.07.2014 17:24:20 [Thread-0] INFO  by.snitovets.busstops.entity.Bus  - Bus 11 going to stop (293)
+13.07.2014 17:24:20 [Thread-4] INFO  by.snitovets.busstops.entity.BusStop  - Bus 15 leavebus stop 2
+13.07.2014 17:24:20 [Thread-4] INFO  by.snitovets.busstops.entity.Bus  - Bus 15 going to stop (154)
+13.07.2014 17:24:20 [Thread-4] INFO  by.snitovets.busstops.entity.BusStop  - Bus 15 enterbus stop 3
+13.07.2014 17:24:20 [Thread-4] INFO  by.snitovets.busstops.entity.Bus  - Bus 15 standing at the bus stop (72)
+13.07.2014 17:24:20 [Thread-0] INFO  by.snitovets.busstops.entity.BusStop  - Bus 11 enterbus stop 4
+13.07.2014 17:24:20 [Thread-0] INFO  by.snitovets.busstops.entity.Bus  - Bus 11 standing at the bus stop (81)
+13.07.2014 17:24:20 [Thread-4] INFO  by.snitovets.busstops.entity.BusStop  - Bus 15 leavebus stop 3
+13.07.2014 17:24:20 [Thread-4] INFO  by.snitovets.busstops.entity.Bus  - Bus 15 going to stop (745)
+13.07.2014 17:24:20 [Thread-0] INFO  by.snitovets.busstops.entity.BusStop  - Bus 11 leavebus stop 4
+13.07.2014 17:24:20 [Thread-3] INFO  by.snitovets.busstops.entity.BusStop  - Bus 14 enterbus stop 4
+13.07.2014 17:24:20 [Thread-3] INFO  by.snitovets.busstops.entity.Bus  - Bus 14 standing at the bus stop (887)
+13.07.2014 17:24:20 [Thread-2] INFO  by.snitovets.busstops.entity.BusStop  - Bus 13 enterbus stop 3
+13.07.2014 17:24:20 [Thread-2] INFO  by.snitovets.busstops.entity.Bus  - Bus 13 standing at the bus stop (638)
+13.07.2014 17:24:21 [Thread-4] INFO  by.snitovets.busstops.entity.BusStop  - Bus 15 enterbus stop 4
+13.07.2014 17:24:21 [Thread-4] INFO  by.snitovets.busstops.entity.Bus  - Bus 15 standing at the bus stop (467)
+13.07.2014 17:24:21 [Thread-2] INFO  by.snitovets.busstops.entity.BusStop  - Bus 13 leavebus stop 3
+13.07.2014 17:24:21 [Thread-2] INFO  by.snitovets.busstops.entity.Bus  - Bus 13 going to stop (962)
+13.07.2014 17:24:21 [Thread-3] INFO  by.snitovets.busstops.entity.BusStop  - Bus 14 leavebus stop 4
+13.07.2014 17:24:21 [Thread-4] INFO  by.snitovets.busstops.entity.BusStop  - Bus 15 leavebus stop 4
+13.07.2014 17:24:22 [Thread-2] INFO  by.snitovets.busstops.entity.BusStop  - Bus 13 enterbus stop 4
+13.07.2014 17:24:22 [Thread-2] INFO  by.snitovets.busstops.entity.Bus  - Bus 13 standing at the bus stop (635)
+13.07.2014 17:24:23 [Thread-2] INFO  by.snitovets.busstops.entity.BusStop  - Bus 13 leavebus stop 4
