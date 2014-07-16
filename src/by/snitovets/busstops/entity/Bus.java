@@ -39,7 +39,9 @@ public class Bus implements Runnable {
                 LOG.info("Bus " + Thread.currentThread().getId() + " going to stop (" + goingTime + ")");
                 Thread.sleep(goingTime);
                 //заезд на остановку
-                busStop.tryEnter(length);
+                while (!busStop.tryEnter(length)){
+                    Thread.sleep(100);
+                }
                 //посадка и высадка пассажиров
                 long stopTime = Math.round(1000 * Math.random());
                 LOG.info("Bus " + Thread.currentThread().getId() + " standing at the bus stop (" + stopTime + ")");
