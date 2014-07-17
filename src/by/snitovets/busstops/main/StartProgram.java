@@ -20,7 +20,7 @@ public class StartProgram {
     public static void main(String... argv) {
         ArrayList<BusStop> busStops = new ArrayList<>();
         for (int i = 0; i < 5; i++) {
-            busStops.add(new BusStop(i*4, "bus stop " + String.valueOf(i)));
+            busStops.add(new BusStop(10, "bus stop " + String.valueOf(i)));
         }
         for (int i = 0; i < 5; i++) {
             Bus bus = new Bus(i*2);

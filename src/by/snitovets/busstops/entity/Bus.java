@@ -19,15 +19,15 @@ public class Bus implements Runnable {
         this.length = length;
     }
 
-    public void setRoute(List<BusStop> clctn) {
-        route = clctn;
+    public void setRoute(List<BusStop> busStops) {
+        route = busStops;
     }
 
-    public void addAllBusStops(Collection<? extends BusStop> clctn) {
+    public void addAllBusStops(Collection<? extends BusStop> busStops) {
         if (null == route) {
             route = new ArrayList<>();
         }
-        route.addAll(clctn);
+        route.addAll(busStops);
     }
 
     @Override
@@ -36,10 +36,10 @@ public class Bus implements Runnable {
             try {
                 //надо же доехать до остановки
                 long goingTime = Math.round(1000 * Math.random());
-                LOG.info("Bus " + Thread.currentThread().getId() + " going to stop (" + goingTime + ")");
+                LOG.info("Bus " + Thread.currentThread().getId() + " going to bus stop (" + goingTime + "ms)");
                 Thread.sleep(goingTime);
                 //заезд на остановку
-                while (!busStop.tryEnter(length)){
+                while (!busStop.tryEnter(length)) {
                     Thread.sleep(100);
                 }
                 //посадка и высадка пассажиров
